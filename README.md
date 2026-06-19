@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+VS Code extensions:
+
+# Minimax VSCode chat
+
+[Read more](https://codeberg.org/leon_rs/minimax-vscode-chat.git)
