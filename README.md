@@ -21,4 +21,4 @@ VS Code extensions:
 
 # Minimax VSCode chat
 
-[Read more](https://codeberg.org/leon_rs/minimax-vscode-chat.git)
+[Read more - codeberg.org/leon_rs/minimax-vscode-chat.git](https://codeberg.org/leon_rs/minimax-vscode-chat.git)
